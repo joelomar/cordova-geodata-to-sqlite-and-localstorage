@@ -1,0 +1,31 @@
+h1 {
+
+    text-align: center;
+    margin: 0px 0px 30px 0px;
+
+}
+
+body {
+
+  background-color: #16ECEF;
+
+}
+
+#inputs {
+    
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+
+}
+
+#circle_but {
+     
+    margin: auto;
+    width: 160px;
+    height: 160px;
+    border: 1px solid #ffffff;
+    border-radius: 100px;
+    background: #66F457;
+    
+    
+}
